@@ -23,6 +23,12 @@ body{
 
 .div1:hover{
     background-color: blue;
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
+}
+
+.div2:hover{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
 }
