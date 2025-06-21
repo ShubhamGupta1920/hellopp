@@ -28,7 +28,7 @@ body{
 }
 
 .div2:hover{
-    background-color: blue;
+    background-color: rgb(85, 255, 0);
     height: 200px;
     width: 200px;
 }
