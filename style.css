@@ -1,0 +1,22 @@
+.div1{
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+    border: 2px solid black;
+    margin: 10px;
+   
+
+}
+
+.div2{
+    height: 500px;
+    width: 500px;
+    background-color:bisque;
+    border: 2px solid black;
+    margin: 10px;
+
+}
+body{
+    display: flex;
+    justify-content: space-around;
+}
